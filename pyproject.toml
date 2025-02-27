@@ -1,0 +1,20 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.47.2",
+    "nltk>=3.9.1",
+    "numpy>=2.2.3",
+    "openai>=1.64.0",
+    "paho-mqtt>=2.1.0",
+    "pandas>=2.2.3",
+    "plotly>=6.0.0",
+    "requests>=2.32.3",
+    "scikit-learn>=1.6.1",
+    "shapely>=2.0.7",
+    "streamlit>=1.42.2",
+    "trafilatura>=2.0.0",
+    "twilio>=9.4.6",
+]
